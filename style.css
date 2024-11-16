@@ -1,13 +1,5 @@
-#e {
-    padding: 10px 20px;
-    font-size: 16px;
-    background-color: red;
-    color: white;
-    border: none;
-    cursor: pointer;
-    transition: transform 150ms ease;
+#banner {
+    max-width: 410px;
+    height: auto;
 }
-
-#e:hover {
-    transform: scale(2);
-}
+  
