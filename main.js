@@ -1,4 +1,4 @@
 document.getElementById('e').addEventListener('click', () => {
-    alert('FBI Open Up!');
+    alert('click');
     console.log("Worked!");
 });
